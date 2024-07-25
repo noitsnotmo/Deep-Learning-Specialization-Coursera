@@ -14,9 +14,12 @@ OBJECTIVES:
 - Identify key parameters in a neural network’s architecture
 - Apply deep learning to your own applications
 
-Assignments:
+Assignments:  
 Week 1: None  
-Week 2: [Logistic Regression with a Neural Network](https://github.com/noitsnotmo/Deep-Learning-Specialization-Coursera/blob/main/Logistic_Regression_with_a_Neural_Network)
+Week 2:  [Python_Basics_with_Numpy](https://github.com/noitsnotmo/Deep-Learning-Specialization-Coursera/blob/main/Python_Basics_with_Numpy)  
+[Logistic Regression with a Neural Network](https://github.com/noitsnotmo/Deep-Learning-Specialization-Coursera/blob/main/Logistic_Regression_with_a_Neural_Network)  
+Week 3:  
+Week 4:  
 
 # 2. Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 
