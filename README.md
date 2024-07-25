@@ -15,8 +15,8 @@ OBJECTIVES:
 - Apply deep learning to your own applications
 
 Assignments:
-Week 1: None
-Week 2: 
+Week 1: None  
+Week 2: [Logistic Regression with a Neural Network](https://github.com/noitsnotmo/Deep-Learning-Specialization-Coursera/blob/main/Logistic_Regression_with_a_Neural_Network)
 
 # 2. Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 
