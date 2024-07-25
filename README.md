@@ -15,6 +15,7 @@ OBJECTIVES:
 - Apply deep learning to your own applications
 
 Assignments:  
+  
 Week 1: None  
 Week 2:  [Neural Networks Basics](https://github.com/noitsnotmo/Deep-Learning-Specialization-Coursera/tree/main/Neural_Networks_and_Deep_Learning/Week_2)  
 Week 3:  [Shallow Neural Networks](https://github.com/noitsnotmo/Deep-Learning-Specialization-Coursera/tree/main/Neural_Networks_and_Deep_Learning/Week_3)  
