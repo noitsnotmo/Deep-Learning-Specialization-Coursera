@@ -16,9 +16,9 @@ OBJECTIVES:
 
 Assignments:  
 Week 1: None  
-Week 2:  [Neural Networks Basics](https://github.com/noitsnotmo/Deep-Learning-Specialization-Coursera/tree/main/Neural_Networks_and_Deep_Learning/Week_2)
-Week 3:  [Shallow Neural Networks](https://github.com/noitsnotmo/Deep-Learning-Specialization-Coursera/tree/main/Neural_Networks_and_Deep_Learning/Week_3)
-Week 4:  [Deep Neural Network](https://github.com/noitsnotmo/Deep-Learning-Specialization-Coursera/tree/main/Neural_Networks_and_Deep_Learning/Week_4)
+Week 2:  [Neural Networks Basics](https://github.com/noitsnotmo/Deep-Learning-Specialization-Coursera/tree/main/Neural_Networks_and_Deep_Learning/Week_2)  
+Week 3:  [Shallow Neural Networks](https://github.com/noitsnotmo/Deep-Learning-Specialization-Coursera/tree/main/Neural_Networks_and_Deep_Learning/Week_3)  
+Week 4:  [Deep Neural Network](https://github.com/noitsnotmo/Deep-Learning-Specialization-Coursera/tree/main/Neural_Networks_and_Deep_Learning/Week_4)  
 
 # 2. Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 
