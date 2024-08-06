@@ -23,6 +23,19 @@ Week 4:  [Deep Neural Network](https://github.com/noitsnotmo/Deep-Learning-Speci
 
 # 2. Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 
+OBJECTIVES:
+- Learn the best practices to train and develop test sets and analyze bias/variance for building deep learning applications.  
+- Be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking.  
+- Implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence.  
+- Implement a neural network in TensorFlow.  
+
+Assignments:  
+  
+Week 1: [Practical Aspects of Deep Learning](https://github.com/noitsnotmo/Deep-Learning-Specialization-Coursera/tree/main/Improving_Deep_Neural_Networks_Hyperparameter_Tuning_Regularization_and_Optimization/Week_1)   
+Week 2: In Progress  
+Week 3: ...  
+Week 4: ...  
+  
 # 3. Structuring Machine Learning Projects
 
 # 4. Convolutional Neural Networks
