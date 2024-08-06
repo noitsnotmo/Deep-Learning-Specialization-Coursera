@@ -8,12 +8,12 @@ Instructor: Andrew Ng
 # 1. Neural Networks & Deep Learning
 
 OBJECTIVES:
-- Be familiar with the significant technological trends driving the rise of deep learning
-- Build, train, and apply fully connected deep neural networks
-- Implement efficient (vectorized) neural networks
-- Identify key parameters in a neural network’s architecture
-- Apply deep learning to your own applications
-
+- Be familiar with the significant technological trends driving the rise of deep learning.  
+- Build, train, and apply fully connected deep neural networks.  
+- Implement efficient (vectorized) neural networks.  
+- Identify key parameters in a neural network’s architecture.  
+- Apply deep learning to your own applications.  
+  
 Assignments:  
   
 Week 1: None  
